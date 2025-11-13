@@ -1,0 +1,96 @@
+{
+  "settings": {
+      "x": 2,
+      "y": 2,
+      "delay": 0.1,
+      "debug": false
+  },
+  "abilities": [
+      {
+          "name": "1",
+          "keybind": "1",
+          "color": [204, 25, 25]
+      },
+      {
+        "name": "2",
+        "keybind": "2",
+        "color": [25, 204, 25]
+    },
+    {
+        "name": "3",
+        "keybind": "3",
+        "color": [51, 102, 204]
+    },
+      {
+          "name": "4",
+          "keybind": "4",
+          "color": [204, 204, 25]
+      },
+      {
+          "name": "5",
+          "keybind": "5",
+          "color": [178, 102, 204]
+      },
+      
+      {
+          "name": "6",
+          "keybind": "6",
+          "color": [25, 178, 178]
+      },
+      {
+        "name": "7",
+        "keybind": "7",
+        "color": [204, 102, 25]
+    },
+      {
+          "name": "8",
+          "keybind": "8",
+          "color": [102, 204, 25]
+      },
+      {
+        "name": "9",
+        "keybind": "9",
+        "color": [204, 25, 102]
+      },
+      {
+        "name": "F1",
+        "keybind": "F1",
+        "color": [25, 25, 204]
+      },
+      {
+        "name": "F2",
+        "keybind": "F2",
+        "color": [102, 25, 204]
+      },
+      {
+        "name": "F3",
+        "keybind": "F2",
+        "color": [204, 51, 25]
+      },
+      {
+        "name": "F4",
+        "keybind": "F2",
+        "color": [25, 204, 102]
+      },
+      {
+        "name": "F5",
+        "keybind": "F5",
+        "color": [204, 25, 178]
+      },
+      {
+        "name": "F6",
+        "keybind": "F6",
+        "color": [25, 178, 25]
+      },
+      {
+        "name": "F7",
+        "keybind": "F7",
+        "color": [102, 102, 102]
+      },
+      {
+        "name": "F8",
+        "keybind": "F8",
+        "color": [58, 97, 111]
+      }
+  ]
+}
