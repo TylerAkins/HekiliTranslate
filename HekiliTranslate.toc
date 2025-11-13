@@ -1,0 +1,7 @@
+## Interface: 100200
+## Version: v10.1.17-1.0.1
+## Title: HekiliTranslate
+## Author: Murgy
+## Dependencies: Hekili
+
+HekiliTranslate.lua
